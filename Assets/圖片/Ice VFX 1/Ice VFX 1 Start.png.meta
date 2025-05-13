@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 884ea8832509a1c43bef5c1205f4d6ef
+guid: ed65e07c9f1d98a4ab41ac25afcd0ca3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -136,13 +136,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u8759\u8760_0"
+      name: Ice VFX 1 Start_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 81
-        height: 71
+        x: 10
+        y: 12
+        width: 13
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b96d6b6f32041147944f86521120af0
-      internalID: 1299416571
+      spriteID: d5b04e195a5434b499c58a95700bf06a
+      internalID: -1700349834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u8759\u8760_1"
+      name: Ice VFX 1 Start_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 0
-        width: 81
-        height: 71
+        x: 58
+        y: 11
+        width: 18
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bc051c87ba19cf4a8ad57926e942935
-      internalID: -373813389
+      spriteID: 131ea6b3a3068ef488c775cd878390c9
+      internalID: 1166054671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u8759\u8760_2"
+      name: Ice VFX 1 Start_2
       rect:
         serializedVersion: 2
-        x: 162
-        y: 0
-        width: 81
-        height: 71
+        x: 106
+        y: 11
+        width: 19
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,29 +192,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2adc62b14160a24a94314f9507d9bc3
-      internalID: 1035796732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u8759\u8760_3"
-      rect:
-        serializedVersion: 2
-        x: 243
-        y: 0
-        width: 81
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0119c5916413a14d8964d1037f39fc8
-      internalID: -1579585059
+      spriteID: 20e35a939b5257c49903d795db572b06
+      internalID: -1493865349
       vertices: []
       indices: 
       edges: []
@@ -230,10 +209,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "\u8759\u8760_0": 1299416571
-      "\u8759\u8760_1": -373813389
-      "\u8759\u8760_2": 1035796732
-      "\u8759\u8760_3": -1579585059
+      Ice VFX 1 Start_0: -1700349834
+      Ice VFX 1 Start_1: 1166054671
+      Ice VFX 1 Start_2: -1493865349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

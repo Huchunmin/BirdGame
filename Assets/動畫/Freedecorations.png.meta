@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 884ea8832509a1c43bef5c1205f4d6ef
+guid: 0d5506284d7c09b46b33d99fd2c92b22
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -136,13 +136,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u8759\u8760_0"
+      name: Freedecorations_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 81
-        height: 71
+        x: 49
+        y: 97
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b96d6b6f32041147944f86521120af0
-      internalID: 1299416571
+      spriteID: 0cabad449c98f614d835cca197fc2731
+      internalID: -1283669663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u8759\u8760_1"
+      name: Freedecorations_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 0
-        width: 81
-        height: 71
+        x: 98
+        y: 35
+        width: 24
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bc051c87ba19cf4a8ad57926e942935
-      internalID: -373813389
+      spriteID: 736f540ce7b95f24bb13f89425ba3700
+      internalID: -2079650224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u8759\u8760_2"
+      name: Freedecorations_2
       rect:
         serializedVersion: 2
-        x: 162
-        y: 0
-        width: 81
-        height: 71
+        x: 17
+        y: 65
+        width: 28
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +192,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2adc62b14160a24a94314f9507d9bc3
-      internalID: 1035796732
+      spriteID: 761baec7422e8f2429b3f3d5a6458d51
+      internalID: -329619225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u8759\u8760_3"
+      name: Freedecorations_3
       rect:
         serializedVersion: 2
-        x: 243
-        y: 0
-        width: 81
-        height: 71
+        x: 49
+        y: 81
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,8 +213,155 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0119c5916413a14d8964d1037f39fc8
-      internalID: -1579585059
+      spriteID: 0314b4869faaff5468533f6e4d558211
+      internalID: 260252931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedecorations_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1333e54f6569b042af2db492a567a2a
+      internalID: 145680302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedecorations_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e459afd5c8f5aa4ca2e2585772fc57c
+      internalID: -469852016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedecorations_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018b8b7a2e1467d4fa3b5cfc181c0a73
+      internalID: -2015322144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedecorations_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0904ca34a01f0f47aa1c398220fd165
+      internalID: 2078274123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedecorations_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936aeab1c4563f4eb81cd37d93f83db
+      internalID: 705123650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedecorations_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118c7eb75b819b4c9bcad47b43dc430
+      internalID: 280127864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freedecorations_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befda5b5aad7e2e4a837caf9f462b9c8
+      internalID: -1511944384
       vertices: []
       indices: 
       edges: []
@@ -230,10 +377,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "\u8759\u8760_0": 1299416571
-      "\u8759\u8760_1": -373813389
-      "\u8759\u8760_2": 1035796732
-      "\u8759\u8760_3": -1579585059
+      Freedecorations_0: -1283669663
+      Freedecorations_1: -2079650224
+      Freedecorations_10: -1511944384
+      Freedecorations_2: -329619225
+      Freedecorations_3: 260252931
+      Freedecorations_4: 145680302
+      Freedecorations_5: -469852016
+      Freedecorations_6: -2015322144
+      Freedecorations_7: 2078274123
+      Freedecorations_8: 705123650
+      Freedecorations_9: 280127864
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
